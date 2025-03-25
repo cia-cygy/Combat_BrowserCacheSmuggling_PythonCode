@@ -2,6 +2,8 @@
 
 As the name suggests, this code is intended to delete .dll files from browser cache folders as the only scenario where a .dll file is stored in a browser cache folder is when the PC is under Browser Cache Smuggling attack.
 
+My idea is to keep updating this code to make it an automatic and seamless process of deleting .dll files as soon as they are cached by the browser.
+
 I came to know about this attack from the following article:
 https://cybersecuritynews.com/teams-malware-via-browsers-cache-smuggling/amp/
 
@@ -25,6 +27,3 @@ DLL Proxying for Execution & Evasion:
 -> Fake DLL proxies legitimate function calls while executing malware.
 -> Payload (e.g., Cobalt Strike beacon) is executed.
 -> Legitimate app continues running, reducing suspicion.
-
-
-My idea is to keep updating this code to make it an automatic and seamless process of deleting .dll files as soon as they are cached by the browser.
