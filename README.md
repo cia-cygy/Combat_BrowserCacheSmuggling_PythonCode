@@ -7,7 +7,7 @@ My idea is to keep updating this code to make it an automatic and seamless proce
 I came to know about this attack from the following article:
 https://cybersecuritynews.com/teams-malware-via-browsers-cache-smuggling/amp/
 
-Attack Procedure:
+Attack Process:
 
 Browser Cache Smuggling:
 
