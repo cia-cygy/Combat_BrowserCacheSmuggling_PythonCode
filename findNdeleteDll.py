@@ -24,7 +24,7 @@ def delete_files(files):
 
 # List of folders to search in
 folder_paths = [
-    "/Users/deepthi/Library/Caches",
+    "/Users/Student/Library/Caches",
     "/System/Library/CacheDelete",
     "/System/Library/Caches"
 ]
